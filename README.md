@@ -74,9 +74,12 @@ ket qua goi js tra ve data
 
 <img width="1861" height="908" alt="image" src="https://github.com/user-attachments/assets/ee1dead9-824e-4c63-a708-670127ec85e9" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1c7f3452-7b75-4ef2-82d3-794542204d7c" />
+<img width="1779" height="653" alt="image" src="https://github.com/user-attachments/assets/fd1f8db0-723c-4734-8c25-fd2a6262248f" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0cbff489-a1a3-4e72-be91-480f434e33b1" />
+<img width="1793" height="593" alt="image" src="https://github.com/user-attachments/assets/a180e81a-d170-4fd6-ab60-8ad805ccb8d7" />
+
+<img width="1761" height="621" alt="image" src="https://github.com/user-attachments/assets/8b5d124c-1345-4adb-8730-f8a5aad64e3f" />
+
 
 # KHONG GOI DUOC API LOGIN
 
