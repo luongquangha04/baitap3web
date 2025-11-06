@@ -81,7 +81,5 @@ ket qua goi js tra ve data
 <img width="1761" height="621" alt="image" src="https://github.com/user-attachments/assets/8b5d124c-1345-4adb-8730-f8a5aad64e3f" />
 
 
-# KHONG GOI DUOC API LOGIN
-
 
 
